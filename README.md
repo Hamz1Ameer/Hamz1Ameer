@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,jquery,tailwind,git,github,vite,vscode,aws)](https://skillicons.dev)
 
 <!--
 **Hamz1Ameer/Hamz1Ameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
