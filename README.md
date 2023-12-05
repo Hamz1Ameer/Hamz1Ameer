@@ -9,8 +9,14 @@ I'm a passionate software developer with over 1.5 years of experience in buildin
 - **Database:** MongoDB
 - **Tools & Technologies:** Git, VS Code, npm, RESTful APIs
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&hide=stars&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/mahamzaa
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourUsername)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,jquery,tailwind,git,github,vite,vscode,aws)](https://skillicons.dev)
 
