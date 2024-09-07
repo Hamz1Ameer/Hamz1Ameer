@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About Me
-I'm a passionate software developer with over 1.5 years of experience in building robust web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack. I thrive on turning ideas into scalable and efficient solutions. My goal is to contribute to innovative projects that leverage cutting-edge technologies.
+I'm a passionate software developer with over 2.5 years of experience in building robust web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack. I thrive on turning ideas into scalable and efficient solutions. My goal is to contribute to innovative projects that leverage cutting-edge technologies.
 
 ## Skills
 - **Programming Languages:** JavaScript: (ES6+, Node.js, React.js)
